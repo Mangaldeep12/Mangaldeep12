@@ -1,5 +1,63 @@
 # 💫 About Me:
- About Me 👋<br><br>Hello! I'm Mangaldeep Barai, a passionate Cloud-Native Application Developer and a tech enthusiast with a solid foundation in computer science and technology. I enjoy tackling challenging problems and building innovative solutions in the ever-evolving tech landscape. Here’s a bit about me:<br><br><br> 🌟 **Professional Expertise**<br>- **Cloud-Native Software Development**: Designing and developing scalable applications using cloud platforms.<br>- **Programming Proficiency**: Skilled in **Python**, **C**, **Lua**, **React**, **HTML**, and **CSS**.<br>- **5G Network Analysis**: Expertise in **5G NR Architecture**, **Network Performance KPIs**, and **Data Analysis**.<br>- **Database Management**: Proficient in **MySQL DBMS**.<br>- **Cloud Platforms & Tools**: Hands-on experience with **AWS Cloud** and **Kubernetes System Administration**.<br>- **Networking**: Knowledge in **IP Networking** and **5G Network Services**.<br>- **Certifications**: Trained in **CKAD** (Certified Kubernetes Application Developer).<br><br><br> **Institution Innovation Council (IIC) at UEM Kolkata**<br>*2021 – 2023*  <br>- Served as the **Student Coordinator Head**, fostering innovation and teamwork.<br><br><br>🎓 **Education**<br>- **Bachelor of Technology (B.Tech)** in Computer Science & Technology  <br>  **University of Engineering & Management, Kolkata (UEM)** | *2019 – 2023*  <br>  **Percentage**: 77.7%<br><br>- **High School**  <br>  **Bethuadahari Jagat Chanda Memo High School**  <br>  - 12th Grade | WBCHSE | *2017 – 2019* | **64.33%**  <br>  - 10th Grade | WBBSE | *2011 – 2017* | **79.37%**<br><br><br>🌍 **Languages**<br>- **English**<br>- **Bengali**<br>- **Hindi**<br><br>---<br><br>💡 **Personal Attributes**<br>- Energetic, empathetic, and enthusiastic professional.<br><br><br>Feel free to connect with me! 📩 [mangaldeepbarai2001@gmail.com](mailto:mangaldeepbarai2001@gmail.com)  
+About Me 👋<br><br>
+Hello! I'm <b>Mangaldeep Barai</b> — a hands-on <b>System Administrator & Cloud Engineer</b> focused on enterprise IT, cloud deployments, and security compliance. I love building reliable infra, clean automation, and secure-by-default systems.<br><br>
+
+🌟 <b>Professional Snapshot</b><br>
+- <b>Current Roles</b>: System Administrator • Cloud Engineer • IT Infrastructure Specialist • DevOps Engineer • GCP & AWS Expert.<br>
+  <i>Summary</i>: IT System Administrator & Cloud Engineer with proven expertise across GCP/AWS, Kubernetes, network security, and automation; currently pursuing <b>CKAD</b>. <br><br>
+
+🧭 <b>Experience</b><br>
+- <b>System Administrator — AjnaLens (Dimension NXG Pvt. Ltd.)</b> | <i>Apr 2025 – Present · Mumbai</i><br>
+  • End-to-end GCP (GKE, VPC, Cloud Router, VPN) • Zero-Trust rollout • Fortinet firewalling & IPSec • Zimbra/Mattermost/Nextcloud on local servers • Google Workspace policies & Secrets Manager • CI/CD with Jenkins + K8s • HR/IT onboarding/offboarding automations.<br>
+  <i>Impact</i>: 30% stronger perimeter defense; streamlined IT workflows. <br>
+- <b>Cloud Engineer & Consultant (Freelance)</b> | <i>Aug 2023 – Mar 2025</i><br>
+  • GCP, AWS & VibeGames Cloud • Jenkins/Git CI/CD • Linux/Windows automation • Cloudflare/Spectrum DDoS protection (downtime ↓85%) • Client migrations & ticketing ops. <br><br>
+
+🧪 <b>Highlighted Projects</b><br>
+- <b>AR/VR Deployment with GCP Backend</b> — GKE, VPC, Cloud Router.<br>
+- <b>Automated Employee Lifecycle</b> — AD + Google Workspace, PowerShell/Python.<br>
+- <b>DDoS Protection Solution</b> — Cloudflare/Spectrum + open-source firewalling.<br>
+- <b>Terraform Infra Modules</b> — reusable GCP IaC for multi-env setups.<br>
+- <b>Enterprise CI/CD Pipeline</b> — Jenkins + K8s + Docker.<br>
+- <b>Zero-Trust Security</b> — org-wide Zero-Trust aligned to Indian IT compliance.<br><br>
+
+🛠️ <b>Technical Skills</b><br>
+- <b>Cloud</b>: Google Cloud (GKE), AWS.<br>
+- <b>Containers/Orchestration</b>: Kubernetes (CKAD track), Docker.<br>
+- <b>DevOps</b>: Jenkins, Git/GitLab, CI/CD, Terraform (IaC).<br>
+- <b>SysAdmin</b>: Linux, Windows Server, AD, KVM; Domain Controllers, Group Policies.<br>
+- <b>Networking & Security</b>: Fortinet, VPN/IPSec, Zero-Trust, Cloudflare/Spectrum, DDoS, Secret Manager.<br>
+- <b>Collaboration/Apps</b>: Google Workspace, Zimbra, Mattermost, Nextcloud.<br>
+- <b>Observability</b>: Cloud Monitoring, performance tracking, employee monitoring tools.<br>
+- <b>AR/VR Infra</b>: XR device deployment & migrations.<br><br>
+
+🧑‍🤝‍🧑 <b>Leadership</b><br>
+- <b>Student Coordinator Head</b>, Institution Innovation Council (UEM Kolkata) — <i>2021–2023</i><br>
+  Led 15+ events and 25+ projects for 400+ students (innovation programs, hackathons, talks; mentoring in cloud-native & DevOps).<br><br>
+
+🎓 <b>Education</b><br>
+- <b>B.Tech — Computer Science & Technology</b>, UEM Kolkata (2019–2023) — <b>77.7%</b>.<br>
+- <b>Higher Secondary (WBCHSE)</b>, Bethuadahari Jagat Chanda Memo High School (2017–2019) — <b>64.33%</b>.<br><br>
+
+📜 <b>Certifications</b><br>
+- <b>Google IT Support Professional</b> (Active)<br>
+- <b>Innovating with Google Cloud AI</b> (Active)<br>
+- <b>DevOps with Gemini</b> (Active)<br>
+- <b>Terraform for Google Cloud</b> (Getting Started • Fundamentals • IaC with Terraform)</b> (Active)<br>
+- <b>DevOps Mastery Specialization</b> — KodeCloud (Active)<br>
+- <b>CKAD</b> — in progress<br><br>
+
+🌍 <b>Languages</b><br>
+- English • Bengali • Hindi<br><br>
+
+💡 <b>Personal Attributes</b><br>
+- Energetic, empathetic, enthusiastic, and service-oriented.<br><br>
+
+🤝 <b>Let’s Connect</b><br>
+- 📩 <a href="mailto:mangaldeepbarai2001@gmail.com">mangaldeepbarai2001@gmail.com</a><br>
+- 📍 Bethuadahari, Nadia, West Bengal<br>
+- 🔗 GitHub / LinkedIn / X / Instagram (links on my site)<br>
+
 
 
 ## 🌐 Socials:
