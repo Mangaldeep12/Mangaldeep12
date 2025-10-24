@@ -1,5 +1,4 @@
 # 💫 About Me:
-About Me 👋<br><br>
 Hello! I'm <b>Mangaldeep Barai</b> — a hands-on <b>System Administrator & Cloud Engineer</b> focused on enterprise IT, cloud deployments, and security compliance. I love building reliable infra, clean automation, and secure-by-default systems.<br><br>
 
 🌟 <b>Professional Snapshot</b><br>
@@ -56,7 +55,7 @@ Hello! I'm <b>Mangaldeep Barai</b> — a hands-on <b>System Administrator & Clou
 🤝 <b>Let’s Connect</b><br>
 - 📩 <a href="mailto:mangaldeepbarai2001@gmail.com">mangaldeepbarai2001@gmail.com</a><br>
 - 📍 Bethuadahari, Nadia, West Bengal<br>
-- 🔗 GitHub / LinkedIn / X / Instagram (links on my site)<br>
+- 🔗 GitHub / LinkedIn / X / Instagram ([links on my site](https://mangaldeep.tech/))<br>
 
 
 
